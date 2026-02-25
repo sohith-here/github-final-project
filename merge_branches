@@ -1,0 +1,8 @@
+git checkout main
+Switched to branch 'main'
+
+git merge bug-fix-typo
+Updating xxxxxxx..cfb1be3
+Fast-forward
+ README.md | 2 ++
+ 1 file changed, 2 insertions(+)
