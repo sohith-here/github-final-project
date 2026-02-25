@@ -1,0 +1,6 @@
+C:\Users\91833\mcino-Introduction-to-Git-and-GitHub>git branch -a
+  bug-fix-typo
+* main
+  remotes/origin/HEAD -> origin/main
+  remotes/origin/bug-fix-typo
+  remotes/origin/main
