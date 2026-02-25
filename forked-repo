@@ -1,5 +1,4 @@
-curl https://api.github.com/repos/sohith-here/mcino-Introduction-to-Git-and-GitHub
-C:\Users\91833>curl https://api.github.com/repos/sohith-here/mcino-Introduction-to-Git-and-GitHub
+C:\Users\91833\mcino-Introduction-to-Git-and-GitHub>curl https://api.github.com/repos/sohith-here/mcino-Introduction-to-Git-and-GitHub
 {
   "id": 1166926314,
   "node_id": "R_kgDORY3h6g",
@@ -69,7 +68,7 @@ C:\Users\91833>curl https://api.github.com/repos/sohith-here/mcino-Introduction-
   "deployments_url": "https://api.github.com/repos/sohith-here/mcino-Introduction-to-Git-and-GitHub/deployments",
   "created_at": "2026-02-25T19:00:58Z",
   "updated_at": "2026-02-25T19:00:58Z",
-  "pushed_at": "2025-09-04T10:02:47Z",
+  "pushed_at": "2026-02-25T19:10:02Z",
   "git_url": "git://github.com/sohith-here/mcino-Introduction-to-Git-and-GitHub.git",
   "ssh_url": "git@github.com:sohith-here/mcino-Introduction-to-Git-and-GitHub.git",
   "clone_url": "https://github.com/sohith-here/mcino-Introduction-to-Git-and-GitHub.git",
@@ -196,7 +195,7 @@ C:\Users\91833>curl https://api.github.com/repos/sohith-here/mcino-Introduction-
     "has_wiki": true,
     "has_pages": false,
     "has_discussions": false,
-    "forks_count": 4890,
+    "forks_count": 4889,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -217,7 +216,7 @@ C:\Users\91833>curl https://api.github.com/repos/sohith-here/mcino-Introduction-
 
     ],
     "visibility": "public",
-    "forks": 4890,
+    "forks": 4889,
     "open_issues": 7,
     "watchers": 7,
     "default_branch": "main"
@@ -307,7 +306,7 @@ C:\Users\91833>curl https://api.github.com/repos/sohith-here/mcino-Introduction-
     "has_wiki": true,
     "has_pages": false,
     "has_discussions": false,
-    "forks_count": 4890,
+    "forks_count": 4889,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -328,11 +327,11 @@ C:\Users\91833>curl https://api.github.com/repos/sohith-here/mcino-Introduction-
 
     ],
     "visibility": "public",
-    "forks": 4890,
+    "forks": 4889,
     "open_issues": 7,
     "watchers": 7,
     "default_branch": "main"
   },
-  "network_count": 4890,
+  "network_count": 4889,
   "subscribers_count": 0
 }
